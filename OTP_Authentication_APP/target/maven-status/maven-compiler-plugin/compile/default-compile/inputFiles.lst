@@ -1,0 +1,17 @@
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\config\SecurityConfig.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\config\TwilioConfiguration.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\controller\ApplicationController.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\controller\SMSController.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\DTO\OTPResponseDTO.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\DTO\OTPVerificationdto.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\DTO\SMSDTOREQUEST.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\DTO\UserRegisterationDTO.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\entity\AppUser.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\entity\SMSUser.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\OtpAuthenticationAppApplication.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\repository\RepositoryClass.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\repository\SMSRepository.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\service\OtpLoginService.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\service\otpservice.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\service\SMSOTPService.java
+C:\Users\OCS\Downloads\OTP_Authentication_APP\OTP_Authentication_APP\src\main\java\com\otpauthenticatioapp\OTP_Authentication_APP\service\UserDetailService.java

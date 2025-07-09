@@ -1,0 +1,5 @@
+com\otpauthenticatioapp\OTP_Authentication_APP\DTO\OTPResponseDTO.class
+com\otpauthenticatioapp\OTP_Authentication_APP\OtpAuthenticationAppApplication.class
+com\otpauthenticatioapp\OTP_Authentication_APP\DTO\UserRegisterationDTO.class
+com\otpauthenticatioapp\OTP_Authentication_APP\DTO\SMSDTOREQUEST.class
+com\otpauthenticatioapp\OTP_Authentication_APP\DTO\OTPVerificationdto.class
